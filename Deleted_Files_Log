@@ -1,0 +1,28 @@
+----------------------------------------
+Total File Counts Is 7
+Duplicate File Counts Is 6
+Deleted File Counts Is 3
+fab361bd94898c88ff61d11433abb360 
+f4c7cf5f6e301ca3cfe60624e69e0fe9 
+c83b2d5bb1fb4d93d9d064593ed6eea2 
+Duplicate File CheckSum List Is ['fab361bd94898c88ff61d11433abb360', 'f4c7cf5f6e301ca3cfe60624e69e0fe9', 'c83b2d5bb1fb4d93d9d064593ed6eea2']
+Complete time taken for Deleting Duplicate files -0.002097seconds
+--------------------------------------------------------------------------------
+Total File Counts Is 7
+Duplicate File Counts Is 6
+Deleted File Counts Is 3
+fab361bd94898c88ff61d11433abb360 
+f4c7cf5f6e301ca3cfe60624e69e0fe9 
+c83b2d5bb1fb4d93d9d064593ed6eea2 
+Duplicate File CheckSum List Is ['fab361bd94898c88ff61d11433abb360', 'f4c7cf5f6e301ca3cfe60624e69e0fe9', 'c83b2d5bb1fb4d93d9d064593ed6eea2']
+Complete time taken for Deleting Duplicate files -0.002708seconds
+--------------------------------------------------------------------------------
+Total File Counts Is 7
+Duplicate File Counts Is 6
+Deleted File Counts Is 3
+fab361bd94898c88ff61d11433abb360 
+f4c7cf5f6e301ca3cfe60624e69e0fe9 
+c83b2d5bb1fb4d93d9d064593ed6eea2 
+Duplicate File CheckSum List Is ['fab361bd94898c88ff61d11433abb360', 'f4c7cf5f6e301ca3cfe60624e69e0fe9', 'c83b2d5bb1fb4d93d9d064593ed6eea2']
+Complete time taken for Deleting Duplicate files -0.002794seconds
+----------------------------------------

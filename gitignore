@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Runtime output
+Deleted_Files_Log.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
